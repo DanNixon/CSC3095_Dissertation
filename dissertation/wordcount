@@ -1,0 +1,3 @@
+#!/bin/sh
+
+texcount -total DanNixon_Dissertation.tex
